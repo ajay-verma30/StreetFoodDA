@@ -1,6 +1,7 @@
 # StreetFoodDA
 Data Analysis performed on Street Food details collected worldwide. 
 # 🌍 Street Food Data Analysis
+Dataset URL: https://www.kaggle.com/datasets/benjnb/global-street-food-dataset
 
 This project explores global street food trends using EDA.
 
